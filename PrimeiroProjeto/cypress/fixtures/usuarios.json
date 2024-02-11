@@ -1,0 +1,27 @@
+
+[
+    {
+        "email": "luke.babacolorido@alura.com.br",
+        "fullName": "Luke Babacolorido",
+        "userName": "luke",
+        "password": "babacolorido"
+    },
+    {
+        "email": "jana.pedebanana@alura.com.br",
+        "fullName": "Jana Pedebanana",
+        "userName": "jana",
+        "password": "pedebanana"
+    },
+    {
+        "email": "anakin.zedobode@alura.com",
+        "fullName": "Anakin Zedobode",
+        "userName": "anakin",
+        "password": "zedobode"
+    },
+    {
+        "email": "hana.montana@alura.com",
+        "fullName": "Hana Montana",
+        "userName": "hana",
+        "password": "montana"
+    }
+]
